@@ -1,4 +1,5 @@
 #include "sdt.h"
+//UchebnayaProgramma
 main()
 {
     cout<<" BBedute dva chisla \n";
